@@ -15,8 +15,8 @@ namespace Library
 
         private void buttonfirst_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();  
-            form3.Show();
+            Form4 form4 = new Form4();  
+            form4.Show();
         }
     }
 }

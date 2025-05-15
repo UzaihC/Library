@@ -118,22 +118,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="64 Reasons Growing Up At Hogwarts Ruins You For Life" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\64 Reasons Growing Up At Hogwarts Ruins You For Life.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="book2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\book2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="book1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\book1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Diagon Alley" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Diagon Alley.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6138686479048754367" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6138686479048754367.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="6b35a30a-c1f4-45f3-8c60-3250577d752a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6b35a30a-c1f4-45f3-8c60-3250577d752a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Reasons Growing Up At Hogwarts Ruins You For Life" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Reasons Growing Up At Hogwarts Ruins You For Life.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="02cccc59-55f1-48a0-898c-e2804eea9c551" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02cccc59-55f1-48a0-898c-e2804eea9c551.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d2e54a3d-a69c-4a0b-91f2-12c445090025" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d2e54a3d-a69c-4a0b-91f2-12c445090025.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="book2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\book2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Reasons Growing Up At Hogwarts Ruins You For Life1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Reasons Growing Up At Hogwarts Ruins You For Life1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="44b1b567-1ddb-4d5f-be8a-360029022465" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\44b1b567-1ddb-4d5f-be8a-360029022465.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="02cccc59-55f1-48a0-898c-e2804eea9c55" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02cccc59-55f1-48a0-898c-e2804eea9c55.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="book1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\book1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="book4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\book4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d2e54a3d-a69c-4a0b-91f2-12c4450900251" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d2e54a3d-a69c-4a0b-91f2-12c4450900251.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e3de638b-d1c3-4168-8639-b5dbbb3a9d9c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e3de638b-d1c3-4168-8639-b5dbbb3a9d9c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

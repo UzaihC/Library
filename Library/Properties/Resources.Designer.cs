@@ -63,6 +63,36 @@ namespace Library.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _02cccc59_55f1_48a0_898c_e2804eea9c55 {
+            get {
+                object obj = ResourceManager.GetObject("02cccc59-55f1-48a0-898c-e2804eea9c55", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _02cccc59_55f1_48a0_898c_e2804eea9c551 {
+            get {
+                object obj = ResourceManager.GetObject("02cccc59-55f1-48a0-898c-e2804eea9c551", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _44b1b567_1ddb_4d5f_be8a_360029022465 {
+            get {
+                object obj = ResourceManager.GetObject("44b1b567-1ddb-4d5f-be8a-360029022465", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _6138686479048754367 {
             get {
                 object obj = ResourceManager.GetObject("6138686479048754367", resourceCulture);
@@ -76,6 +106,26 @@ namespace Library.Properties {
         internal static System.Drawing.Bitmap _64_Reasons_Growing_Up_At_Hogwarts_Ruins_You_For_Life {
             get {
                 object obj = ResourceManager.GetObject("64 Reasons Growing Up At Hogwarts Ruins You For Life", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _64_Reasons_Growing_Up_At_Hogwarts_Ruins_You_For_Life1 {
+            get {
+                object obj = ResourceManager.GetObject("64 Reasons Growing Up At Hogwarts Ruins You For Life1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _6b35a30a_c1f4_45f3_8c60_3250577d752a {
+            get {
+                object obj = ResourceManager.GetObject("6b35a30a-c1f4-45f3-8c60-3250577d752a", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +163,39 @@ namespace Library.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap d2e54a3d_a69c_4a0b_91f2_12c445090025 {
+            get {
+                object obj = ResourceManager.GetObject("d2e54a3d-a69c-4a0b-91f2-12c445090025", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d2e54a3d_a69c_4a0b_91f2_12c4450900251 {
+            get {
+                object obj = ResourceManager.GetObject("d2e54a3d-a69c-4a0b-91f2-12c4450900251", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Diagon_Alley {
             get {
                 object obj = ResourceManager.GetObject("Diagon Alley", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap e3de638b_d1c3_4168_8639_b5dbbb3a9d9c {
+            get {
+                object obj = ResourceManager.GetObject("e3de638b-d1c3-4168-8639-b5dbbb3a9d9c", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
